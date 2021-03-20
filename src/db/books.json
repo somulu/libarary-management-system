@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "9781593275846",
+      "title": "Eloquent JavaScript, Second Edition",
+      "author": "Marijn Haverbeke",
+      "category": "Technical"
+    },
+    {
+      "id": "9781449331818",
+      "title": "Learning JavaScript Design Patterns",
+      "author": "Addy Osmani",
+      "category": "Technical"
+    },
+    {
+      "id": "9781449365035",
+      "title": "Speaking JavaScript",
+      "author": "Axel Rauschmayer",
+      "category": "Technical"
+    },
+    {
+      "id": "9781491950296",
+      "title": "Programming JavaScript Applications",
+      "author": "Eric Elliott",
+      "category": "Technical"
+    },
+    {
+      "id": "9781593277574",
+      "title": "Understanding ECMAScript 6",
+      "author": "Nicholas C. Zakas",
+      "category": "Technical"
+    },
+    {
+      "id": "9781491904244",
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "category": "Technical"
+    },
+    {
+      "id": "9781449325862",
+      "title": "Git Pocket Guide",
+      "author": "Richard E. Silverman",
+      "category": "Technical"
+    }
+  ]
+}
